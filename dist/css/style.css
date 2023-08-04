@@ -458,7 +458,7 @@
 }
 
 .projects .projects1 .projects1-box .box h1 {
-  margin-bottom: 5px;
+  margin-bottom: 3px;
 }
 
 .projects .projects1 .projects1-box .box p {
@@ -835,7 +835,7 @@
     width: 85%;
   }
   .about .about-box .box:nth-child(1) img {
-    width: 400px;
+    width: 350px;
   }
 
   .skills .skills-box .box .front-skills div,
@@ -864,6 +864,26 @@
 
   .resume .dtl-projects .box:nth-child(2) {
     text-align: center;
+  }
+
+  .contact {
+    font-size: 60%;
+  }
+
+  .contact .row {
+    flex-wrap: wrap;
+  }
+
+  .contact .row .map {
+    height: 30rem;
+  }
+
+  .contact .row form {
+    padding-top: 0;
+  }
+
+  .contact .row .map {
+    height: 30rem;
   }
 }
 
